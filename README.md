@@ -2,7 +2,7 @@
 
 The second artifact enhancement for the ePortfolio consists of applying algorithms and data structures theory to a project. The artifact utilized for applying algorithms and data structures is the fourth milestone of the course CS 405: Secure Coding. Within this milestone, a data structure for a collection and algorithms that coincide with the data structure are tested using unit testing methods. In addition to the unit testing methods, various input validation methods are used for creating secure code. This artifact was created in August of 2021. This artifact was created quite recently, which shows my current secure coding abilities.
 
-
+The original artifact's functionality overview consists of testing a data structure named collection and testing various algorithms. The algorithm tests include positive and negative tests to check fundamentals on capacity; index sizes out of bounds, and entry size. The features of the original artifact include tests using ASSERT, EXPECT, input validation conditions, and minimal C++ coding standards. In addition, the functionality within the original artifact utilizes principles of Quality Assurance that enhance efficiency further. 
 
 Find the original artifact here
 
