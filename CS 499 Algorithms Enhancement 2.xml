@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="2.4.1"/>
+    <errors>
+        <error id="constStatement" severity="warning" msg="Unused variable value &amp;#039;unique_collect1&amp;#039;" verbose="Unused variable value &amp;#039;unique_collect1&amp;#039;" cwe="398" sinceDate="9/22/2021">
+            <location file0="CS 499 Enhancement2/CS 499 Enhancement2/test.cpp" file="CS 499 Enhancement2\CS 499 Enhancement2\test.cpp" line="132"/>
+        </error>
+        <error id="constStatement" severity="warning" msg="Unused variable value &amp;#039;unique_collect2&amp;#039;" verbose="Unused variable value &amp;#039;unique_collect2&amp;#039;" cwe="398" sinceDate="9/22/2021">
+            <location file0="CS 499 Enhancement2/CS 499 Enhancement2/test.cpp" file="CS 499 Enhancement2\CS 499 Enhancement2\test.cpp" line="154"/>
+        </error>
+        <error id="unusedVariable" severity="style" msg="Unused variable: input" verbose="Unused variable: input" cwe="563" sinceDate="9/22/2021">
+            <location file0="CS 499 Enhancement2/CS 499 Enhancement2/test.cpp" file="CS 499 Enhancement2\CS 499 Enhancement2\test.cpp" line="62"/>
+        </error>
+    </errors>
+</results>
