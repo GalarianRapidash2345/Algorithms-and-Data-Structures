@@ -149,11 +149,11 @@ TEST_F(UniqueCollTest, ExceptionUniqueDSOutBounds)
     int unique_collect1 = 1250;
 
     unique_collect1;
-    string stringDataStructureOutBounds;
+    string stringDsOutBounds;
 
     try
     {
-        FAIL() << stringDataStructureOutBounds;
+        FAIL() << stringDsOutBounds;
     }
     catch (const std::exception& e)
     {
@@ -172,11 +172,11 @@ TEST_F(UniqueCollTest, ExceptionUniqueAlOutBounds)
     int unique_collect2 = 1350;
 
     unique_collect2;
-    string stringAlgorithmOutBounds;
+    string stringAlOutBounds;
 
     try
     {
-        FAIL() << stringAlgorithmOutBounds;
+        FAIL() << stringAlOutBounds;
     }
     catch (const std::exception& e)
     {
