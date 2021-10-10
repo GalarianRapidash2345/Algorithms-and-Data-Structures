@@ -18,3 +18,9 @@ The overall development process consists of initializing a new data structure te
 
 ## Optional
 Find the CppChecker analysis [here.](https://github.com/GalarianRapidash2345/Enhancement-Two/blob/main/CS%20499%20Algorithms%20Enhancement%202.xml)
+
+
+Reflecting on the enhancements for artifact two, I gained experiences in stakeholder decision-making, working in collaborative environments, and communication. Other experiences include approaches to solving complex logic problems, the designing and evaluating of computing solutions, and the development of a security mindset for this artifact. For stakeholder decision-making, I used coding standards, created documentation within the enhanced artifact, and implemented a policy. In addition, I incorporated the feedback to clean the artifact while working in a collaborative environment. I then worked on readability and formatting for my experience with communication. For the approaches to solving complex logic problems, I created pseudocode and discussed my approaches in the code review page of this ePortfolio. In addition, I designed and evaluated computing solutions based from the approaches and utilizing tools such as CppChecker. I then developed a security mindset by implementing unit tests, input validation, and by refining the classes and objects within the artifact. These experiences solidify my abilities for the algorithms and data structures category. 
+
+
+# References
