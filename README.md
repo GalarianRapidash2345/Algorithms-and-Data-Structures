@@ -16,16 +16,13 @@ Find the enhanced artifact [here.](https://github.com/GalarianRapidash2345/Enhan
 The overall development process consists of initializing a new data structure test, a new algorithm test, refining the CanAddToEmptyVector test, and an exception test. I implemented the latest tests and used C++ coding standards to improve the artifact within the new source files I created. My outcome-coverage plans' updates include instantiating a new class for the unique collection data structure and starting a new testing environment that will allow the enhancement source files to execute. Reflecting on enhancing the artifact, I gained a broader understanding of how to implement algorithms and data structures. As I was creating and improving the artifact, I learned to use coding standards, unit tests, and analysis tools to verify the initialization of data structures and algorithms. In addition, I learned how to test more significant amounts of data within a collection. When creating the enhancements, I faced several testing issues and typed errors when initializing the new tests. I resolved the testing issues by deallocating the data structure test instead of adding more data. In addition, I fixed the type errors by using the command size() to initialize data instead of retrieving the data with the command get(). By resolving the challenges, it is conclusive that I have gained the skills to use algorithms and data structures in advanced applications.
 
 
+Reflecting on the enhancements for artifact two, I gained experiences in stakeholder decision-making, working in collaborative environments, and communication. Other experiences include approaches to solving complex logic problems, the designing and evaluating of computing solutions, and the development of a security mindset for this artifact. I used coding standards for stakeholder decision-making, created documentation within the enhanced artifact, and implemented a policy. In addition, I incorporated the feedback to clean the artifact while working in a collaborative environment. I then worked on readability and formatting for my experience with communication. For the approaches to solving complex logic problems, I created pseudocode and discussed my strategies on the code review page of this ePortfolio. In addition, I designed and evaluated computing solutions based on the approaches and utilizing tools such as CppChecker. I then developed a security mindset by implementing unit tests, input validation, and refining the artifacts' classes and objects. These experiences solidified my abilities in the algorithms and data structures category.
+
+
+
 ## Optional
 Find the CppChecker analysis [here.](https://github.com/GalarianRapidash2345/Enhancement-Two/blob/main/CS%20499%20Algorithms%20Enhancement%202.xml)
 
-
-
-
-
-
-
-Reflecting on the enhancements for artifact two, I gained experiences in stakeholder decision-making, working in collaborative environments, and communication. Other experiences include approaches to solving complex logic problems, the designing and evaluating of computing solutions, and the development of a security mindset for this artifact. For stakeholder decision-making, I used coding standards, created documentation within the enhanced artifact, and implemented a policy. In addition, I incorporated the feedback to clean the artifact while working in a collaborative environment. I then worked on readability and formatting for my experience with communication. For the approaches to solving complex logic problems, I created pseudocode and discussed my approaches in the code review page of this ePortfolio. In addition, I designed and evaluated computing solutions based from the approaches and utilizing tools such as CppChecker. I then developed a security mindset by implementing unit tests, input validation, and by refining the classes and objects within the artifact. These experiences solidify my abilities for the algorithms and data structures category. 
 
 
 # References
