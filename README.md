@@ -21,7 +21,7 @@ Reflecting on the enhancements for artifact two, I gained experiences in stakeho
 
 
 ## Optional
-Find the CppChecker analysis [here.](https://github.com/GalarianRapidash2345/Enhancement-Two/blob/main/CS%20499%20Algorithms%20Enhancement%202.xml)
+Find the CppCheck analysis [here.](https://github.com/GalarianRapidash2345/Enhancement-Two/blob/main/CS%20499%20Algorithms%20Enhancement%202.xml)
 
 
 
