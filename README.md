@@ -26,3 +26,8 @@ Find the CppCheck analysis [here.](https://github.com/GalarianRapidash2345/Enhan
 
 
 # References
+
+*Cppcheck: A tool for static C/C++ code analysis.* (n.d.). Cppcheck. Retrieved 2021, from https://cppcheck.sourceforge.io/
+
+
+SEI CERT c++ coding standard. (2020, May 29). In *Confluence.* https://wiki.sei.cmu.edu/confluence/display/cplusplus
